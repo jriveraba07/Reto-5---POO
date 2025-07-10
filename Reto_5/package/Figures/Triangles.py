@@ -1,5 +1,6 @@
 
 from math import (degrees, acos)
+
 from package.Base.Pointed import Point
 from package.Base.Line import Line
 from package.Shape.Shape_e import Shape
